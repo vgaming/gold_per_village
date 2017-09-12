@@ -1,7 +1,7 @@
 author="Vasya Novikov"
 description="%description%"
 email="%email%"
-icon="themes/gold.png"
+icon="items/gold-coins-medium.png"
 passphrase="%passphrase%"
 title="Gold per Village (easy handicap)"
 type="mod_mp"
