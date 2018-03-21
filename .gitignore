@@ -1,5 +1,2 @@
 /.build/.passphrase
-/target
-
-#### old script
-/.publish.sh
+target/
