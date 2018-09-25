@@ -3,8 +3,8 @@ Give more/less income to friends-beginners, yourself or AI.
 Example:
 Player1   gold: [100] income: [0]
 Player2   gold: [100] income: [+1]  <-------
-Player4   gold: [75] income: [0]
-Player3   gold: [50] income: [0]
+Player3   gold: [75]  income: [0]
+Player4   gold: [50]  income: [0]
 
 With this add-on, _each village_ will give 1 more gold per turn. It thus scales with map size.
 
